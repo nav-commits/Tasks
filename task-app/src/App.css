@@ -1,11 +1,18 @@
-.App {
-  text-align: center;
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .Back-ground{
-  padding-top: 20px;
+  padding-top: 5rem;
   padding-left: 40px;
   padding-right: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 18rem;
   background-color: aquamarine;
+}
+
+h1{
+  text-align: center;
 }
