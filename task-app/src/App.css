@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
 body{
   margin-left: 0px;
   margin-right: 0px;
@@ -10,9 +12,18 @@ body{
   padding-left: 40px;
   padding-right: 40px;
   padding-bottom: 18rem;
-  background-color: aquamarine;
+  background-image:linear-gradient(0deg, rgba(46, 45, 4, 0.3), rgba(173, 0, 204, 0.3)),url("https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683__340.png");
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
 }
 
-h1{
+.Tasks-header{
   text-align: center;
+  position: relative;
+  bottom: 30px;
+  color: rgb(3, 0, 0);
+  font-size: 4rem;
+  font-family: 'Reggae One', cursive;
+  letter-spacing: 4px;
 }
