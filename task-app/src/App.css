@@ -21,7 +21,7 @@ body{
 .Tasks-header{
   text-align: center;
   position: relative;
-  bottom: 50px;
+  bottom: 20px;
   color: rgb(3, 0, 0);
   font-size: 4rem;
   font-family: 'Reggae One', cursive;
@@ -34,4 +34,16 @@ body{
   padding-left: 40px;
   padding-right: 40px;
   padding-bottom: 26rem;
+}
+
+.input-task{
+  position: relative;
+  left: 33rem;
+  padding-left: 8px;
+  padding-right: 12px;
+  padding-bottom: 18px;
+  padding-top: 18px;
+  width: 300px;
+  background-color: rgb(29, 22, 22);
+  color: white;
 }
